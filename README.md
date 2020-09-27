@@ -34,14 +34,14 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Financial Instruments and Pricing
 
-- [PyQL](https://github.com/enthought/pyql) - QuantLib's Python port.
+- [PyQL](https://github.com/enthought/pyql) - QuantLib's Python port. [Outdated]
 - [pyfin](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. [ARCHIVED]
 - [vollib](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
-- [QuantPy](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
+- [QuantPy](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.[Outdated]
 - [Finance-Python](https://github.com/alpha-miner/Finance-Python) - Python tools for Finance.
 - [ffn](https://github.com/pmorissette/ffn) - A financial function library for Python.
 - [pynance](https://pynance.net) - PyNance is open-source software for retrieving, analysing and visualizing data from stock and derivatives markets.
-- [tia](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
+- [tia](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.[Outdated]
 - [hasura/base-python-dash](https://platform.hasura.io/hub/projects/hasura/base-python-dash) - Hasura quickstart to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
 - [hasura/base-python-bokeh](https://platform.hasura.io/hub/projects/hasura/base-python-bokeh) - Hasura quickstart to visualize data with bokeh library.
 - [pysabr](https://github.com/ynouri/pysabr) - SABR model Python implementation.
@@ -56,12 +56,12 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
 - [trade](https://github.com/rochars/trade) - trade is a Python framework for the development of financial applications.
 - [zipline](https://www.zipline.io) - Pythonic algorithmic trading library.
-- [QuantSoftware Toolkit](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
+- [QuantSoftware Toolkit](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.[Outdated]
 - [quantitative](https://github.com/jeffrey-liang/quantitative) - Quantitative finance, and backtesting library.
-- [analyzer](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.
+- [analyzer](https://github.com/llazzaro/analyzer) - Python framework for real-time financial and backtesting trading strategies.[Outdated]
 - [bt](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
 - [backtrader](https://github.com/backtrader/backtrader) - Python Backtesting library for trading strategies.
-- [pythalesians](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.
+- [pythalesians](https://github.com/thalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns etc.[Outdated]
 - [pybacktest](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 - [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
 - [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
